@@ -1,4 +1,4 @@
-module proto
+module github.com/NeuroMentor/proto
 
 go 1.23.2
 
